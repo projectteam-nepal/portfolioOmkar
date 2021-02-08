@@ -20,8 +20,9 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'I am an undergrad student at Cluster Innovation Centre, University of Delhi pursuing B.Tech in Information Technology and Mathematical Innovation with Management as minor subject.',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo:
+    'I would love to work on projects related to security and cloud computing for large scale systems.',
+  paragraphThree: 'Currently I work as ',
   resume: 'https://drive.google.com/file/d/1Gswu2-OV4_DYmcl2NlqPItb9JFSDVLzk/view?usp=sharing', // if no resume, the button will not show up
 };
 
