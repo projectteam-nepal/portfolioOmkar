@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'A Predictive Framework for Cyber Security Attack Graphs',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://docs.google.com/presentation/d/1yaqr0aIwjH3kuqVTG585GPNzJdwh1UfHepsIAtjuIXE/edit?usp=sharing',
     repo: 'https://github.com/samspei0l/attack-graphs', // if no repo, the button will not show up
   },
   {
