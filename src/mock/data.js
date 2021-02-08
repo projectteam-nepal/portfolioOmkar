@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Omkar  Chaudhary',
-  subtitle: '',
-  cta: '',
+  subtitle: 'Full Stack Developer',
+  cta: 'Find out more about me',
 };
 
 // ABOUT DATA
