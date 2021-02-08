@@ -32,7 +32,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'CICWEB',
-    info: '',
+    info:
+      'CICWEB is web based framework to manage all the system at CIC with virtual machine and container support. Admin can create, manage and wipe the system remotely using the interface. User can create virtual machine and containers which can be accessed anywhere in the CIC permises.',
     info2: '',
     url: '',
     repo: 'https://github.com/samspei0l/webcic', // if no repo, the button will not show up
@@ -43,7 +44,8 @@ export const projectsData = [
     title: 'A Predictive Framework for Cyber Security Attack Graphs',
     info: '',
     info2: '',
-    url: 'https://docs.google.com/presentation/d/1yaqr0aIwjH3kuqVTG585GPNzJdwh1UfHepsIAtjuIXE/edit?usp=sharing',
+    url:
+      'https://docs.google.com/presentation/d/1yaqr0aIwjH3kuqVTG585GPNzJdwh1UfHepsIAtjuIXE/edit?usp=sharing',
     repo: 'https://github.com/samspei0l/attack-graphs', // if no repo, the button will not show up
   },
   {
