@@ -41,7 +41,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'attack_projects.jpg',
+    img: 'projects2.jpg',
     title: 'A Predictive Framework for Cyber Security Attack Graphs',
     info: '',
     info2: '',
