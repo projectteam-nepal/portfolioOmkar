@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cic_web.jpg',
     title: 'CICWEB',
     info:
       'CICWEB is web based framework to manage all the system at CIC with virtual machine and container support. Admin can create, manage and wipe the system remotely using the interface. User can create virtual machine and containers which can be accessed anywhere in the CIC permises.',
@@ -41,7 +41,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'projects2.jpg',
+    img: 'project2.jpg',
     title: 'A Predictive Framework for Cyber Security Attack Graphs',
     info: '',
     info2: '',
@@ -60,7 +60,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'music.png',
     title: 'Music Generation',
     info: '',
     info2: '',
