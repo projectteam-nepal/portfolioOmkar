@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile.png',
   paragraphOne:
     'I am an undergrad student at Cluster Innovation Centre, University of Delhi pursuing B.Tech in Information Technology and Mathematical Innovation with Management as minor subject.',
   paragraphTwo:
