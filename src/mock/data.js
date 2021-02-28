@@ -51,7 +51,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'cluster.png',
     title: 'High Performance Clusters',
     info: '',
     info2: '',
